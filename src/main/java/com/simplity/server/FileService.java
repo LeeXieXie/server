@@ -11,4 +11,6 @@ public interface FileService {
 
     void download(HttpServletResponse response, String filePath, String filename, Model model);
 
+    void complie();
+
 }
