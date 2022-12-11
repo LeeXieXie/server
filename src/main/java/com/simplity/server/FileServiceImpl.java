@@ -71,4 +71,9 @@ public class FileServiceImpl implements FileService {
             }
         }
     }
+
+    @Override
+    public void complie() {
+
+    }
 }

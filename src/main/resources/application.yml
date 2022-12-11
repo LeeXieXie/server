@@ -1,4 +1,7 @@
 Spring:
+  web:
+    resources:
+      static-locations: classpath:/templates
 #上传文件使用
 servlet:
   multipart:
